@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/david/Fax/CS230/Projekat/src/java/servlet/getProduct.java</file>
+            <file>file:/home/david/Fax/CS230/Projekat/src/java/servlet/getProductsByUserId.java</file>
+            <file>file:/home/david/Fax/CS230/Projekat/src/java/servlet/MyAdapterUsers.java</file>
+            <file>file:/home/david/Fax/CS230/Projekat/src/java/servlet/allUsers.java</file>
+            <file>file:/home/david/Fax/CS230/Projekat/src/java/servlet/getModelFromMarkaID.java</file>
+            <file>file:/home/david/Fax/CS230/Projekat/src/java/servlet/allArticals.java</file>
+            <file>file:/home/david/Fax/CS230/Projekat/src/java/servlet/deleteUser.java</file>
+            <file>file:/home/david/Fax/CS230/Projekat/src/java/servlet/MyTypeOrder.java</file>
+            <file>file:/home/david/Fax/CS230/Projekat/src/java/entity/Artikal.java</file>
+            <file>file:/home/david/Fax/CS230/Projekat/src/java/servlet/AllOrderById.java</file>
+            <file>file:/home/david/Fax/CS230/Projekat/src/java/servlet/AllOrder.java</file>
+            <file>file:/home/david/Fax/CS230/Projekat/src/java/servlet/MyTypemarka.java</file>
+            <file>file:/home/david/Fax/CS230/Projekat/src/java/servlet/DeleteProduct.java</file>
+        </group>
+    </open-files>
+</project-private>

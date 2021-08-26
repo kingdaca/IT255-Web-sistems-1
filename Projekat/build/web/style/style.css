@@ -1,0 +1,33 @@
+body{
+    background: #333333 !important;
+}
+
+section#servisi{
+    background : #333333;
+    color : white;
+}
+
+#nav li a:hover{
+    color: orange;
+}
+#nav li a:active{
+    background-color: orange;
+    color: white;
+}
+
+#modelistyle button{
+    background-color: rgb(20,20,20);
+    color: #9d9d9d;
+    border: 2px orange solid;
+    min-width: 300px;
+    font-size: 20px;
+}
+
+#modelistyle button:hover{
+    color: orange;
+}
+
+#partneri{
+    margin: 50%;
+}
+
